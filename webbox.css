@@ -19,10 +19,16 @@ h1{
 }
 
 header{
-	width: 100%;
-	height: 200px;
-	background-image: url("images/monkey.png") ;
-	
+    width: 100%;
+    height: 150px;
+    background-image: url("images/monkey.png");
+    text-shadow: 0px 3px rgba(0,0,0,1.00);
+    color: rgba(255,255,255,1.00);
+    font-style: italic;
+    font-size: x-large;
+    line-height: 145px;
+    border-radius: 30px;
+    border-spacing: 0px 0px;
 }
 
 nav{
@@ -64,4 +70,3 @@ footer{
 	clear:both;
 	
 }
-
